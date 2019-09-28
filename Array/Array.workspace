@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Array" Database="" Version="10.0.0">
+  <Project Name="AnalyzeArray" Path="AnalyzeArray/AnalyzeArray.project" Active="No"/>
+  <Project Name="lottonumbers" Path="lottonumbers/lottonumbers.project" Active="No"/>
+  <Project Name="deckofcards" Path="deckofcards/deckofcards.project" Active="No"/>
+  <Project Name="passArrayDemo" Path="passArrayDemo/passArrayDemo.project" Active="No"/>
+  <Project Name="effectofarrayDemo" Path="effectofarrayDemo/effectofarrayDemo.project" Active="No"/>
+  <Project Name="constarraydemo" Path="constarraydemo/constarraydemo.project" Active="No"/>
+  <Project Name="reverceyArrey" Path="reverceyArrey/reverceyArrey.project" Active="No"/>
+  <Project Name="checkpoint" Path="checkpoint/checkpoint.project" Active="No"/>
+  <Project Name="checkpointtwo" Path="checkpointtwo/checkpointtwo.project" Active="No"/>
+  <Project Name="countletterarray" Path="checkwoeng/checkwoeng.project" Active="No"/>
+  <Project Name="binearysearch" Path="binearysearch/binearysearch.project" Active="No"/>
+  <Project Name="sortingarray" Path="sortingarray/sortingarray.project" Active="No"/>
+  <Project Name="c_string" Path="c_string/c_string.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="assigngrades" Path="assigngrades/assigngrades.project" Active="No"/>
+  <Project Name="revercenumber" Path="revercenumber/revercenumber.project" Active="No"/>
+  <Project Name="courntoccuren" Path="courntoccuren/courntoccuren.project" Active="No"/>
+  <Project Name="printdistinct" Path="printdistinct/printdistinct.project" Active="No"/>
+  <Project Name="smallest_Number" Path="smallest_Number/smallest_Number.project" Active="No"/>
+  <Project Name="computedeviation" Path="computedeviation/computedeviation.project" Active="No"/>
+  <Project Name="findsalecamount" Path="findsalecamount/findsalecamount.project" Active="No"/>
+  <Project Name="sortnumber" Path="testthird/testthird.project" Active="No"/>
+  <Project Name="liockerpuzzle" Path="liockerpuzzle/liockerpuzzle.project" Active="No"/>
+  <Project Name="Reviseselectionsort" Path="Reviseselectionsort/Reviseselectionsort.project" Active="No"/>
+  <Project Name="galtonballs" Path="galtonballs/galtonballs.project" Active="No"/>
+  <Project Name="theeightqueen" Path="theeightqueen/theeightqueen.project" Active="No"/>
+  <Project Name="eightqeen" Path="eightqeen/eightqeen.project" Active="No"/>
+  <Project Name="curscoupon" Path="curscoupon/curscoupon.project" Active="No"/>
+  <Project Name="combinations" Path="combinations/combinations.project" Active="No"/>
+  <Project Name="identicalarray" Path="identicalarray/identicalarray.project" Active="No"/>
+  <Project Name="Patternrecognition" Path="Patternrecognition/Patternrecognition.project" Active="No"/>
+  <Project Name="drawingsquare" Path="testfive/testfive.project" Active="No"/>
+  <Project Name="processingtwodimansial" Path="processingtwodimansial/processingtwodimansial.project" Active="No"/>
+  <Project Name="checkpoint_one" Path="checkpoint_one/checkpoint_one.project" Active="No"/>
+  <Project Name="gradeexam" Path="gradeexam/gradeexam.project" Active="No"/>
+  <Project Name="FindNearestPoints" Path="FindNearestPoints/FindNearestPoints.project" Active="No"/>
+  <Project Name="weather" Path="weather/weather.project" Active="No"/>
+  <Project Name="threeMultidimensionalarray" Path="threeMultidimensionalarray/threeMultidimensionalarray.project" Active="No"/>
+  <Project Name="sumelementsandculomens" Path="sumelementsandculomens/sumelementsandculomens.project" Active="No"/>
+  <Project Name="sortstudentgraduted" Path="sortstudentgraduted/sortstudentgraduted.project" Active="No"/>
+  <Project Name="testfives" Path="testfives/testfives.project" Active="No"/>
+  <Project Name="convertdecimaltobinary" Path="convertdecimaltobinary/convertdecimaltobinary.project" Active="No"/>
+  <Project Name="ComputeTheWeeklyHoursForEachEmployee" Path="ComputeTheWeeklyHoursForEachEmployee/ComputeTheWeeklyHoursForEachEmployee.project" Active="No"/>
+  <Project Name="addtwomatric" Path="addtwomatric/addtwomatric.project" Active="No"/>
+  <Project Name="shufllerows" Path="shufllerows/shufllerows.project" Active="No"/>
+  <Project Name="multiplytwomatrices" Path="multiplytwomatrices/multiplytwomatrices.project" Active="No"/>
+  <Project Name="distantce" Path="distantce/distantce.project" Active="No"/>
+  <Project Name="largestelement" Path="largestelement/largestelement.project" Active="No"/>
+  <Project Name="matrixInverseThreeToThree" Path="matrixInverseThreeToThree/matrixInverseThreeToThree.project" Active="No"/>
+  <Project Name="TicTac" Path="chess/chess.project" Active="No"/>
+  <Project Name="connectfour" Path="connectfour/connectfour.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="AnalyzeArray" ConfigName="Debug"/>
+      <Project Name="lottonumbers" ConfigName="Debug"/>
+      <Project Name="deckofcards" ConfigName="Debug"/>
+      <Project Name="passArrayDemo" ConfigName="Debug"/>
+      <Project Name="effectofarrayDemo" ConfigName="Debug"/>
+      <Project Name="constarraydemo" ConfigName="Debug"/>
+      <Project Name="reverceyArrey" ConfigName="Debug"/>
+      <Project Name="checkpoint" ConfigName="Debug"/>
+      <Project Name="checkpointtwo" ConfigName="Debug"/>
+      <Project Name="countletterarray" ConfigName="Debug"/>
+      <Project Name="binearysearch" ConfigName="Debug"/>
+      <Project Name="sortingarray" ConfigName="Debug"/>
+      <Project Name="c_string" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="assigngrades" ConfigName="Debug"/>
+      <Project Name="revercenumber" ConfigName="Debug"/>
+      <Project Name="courntoccuren" ConfigName="Debug"/>
+      <Project Name="printdistinct" ConfigName="Debug"/>
+      <Project Name="smallest_Number" ConfigName="Debug"/>
+      <Project Name="computedeviation" ConfigName="Debug"/>
+      <Project Name="findsalecamount" ConfigName="Debug"/>
+      <Project Name="sortnumber" ConfigName="Debug"/>
+      <Project Name="liockerpuzzle" ConfigName="Debug"/>
+      <Project Name="Reviseselectionsort" ConfigName="Debug"/>
+      <Project Name="galtonballs" ConfigName="Debug"/>
+      <Project Name="theeightqueen" ConfigName="Debug"/>
+      <Project Name="eightqeen" ConfigName="Debug"/>
+      <Project Name="curscoupon" ConfigName="Debug"/>
+      <Project Name="combinations" ConfigName="Debug"/>
+      <Project Name="identicalarray" ConfigName="Debug"/>
+      <Project Name="Patternrecognition" ConfigName="Debug"/>
+      <Project Name="drawingsquare" ConfigName="Debug"/>
+      <Project Name="processingtwodimansial" ConfigName="Debug"/>
+      <Project Name="checkpoint_one" ConfigName="Debug"/>
+      <Project Name="gradeexam" ConfigName="Debug"/>
+      <Project Name="FindNearestPoints" ConfigName="Debug"/>
+      <Project Name="weather" ConfigName="Debug"/>
+      <Project Name="threeMultidimensionalarray" ConfigName="Debug"/>
+      <Project Name="sumelementsandculomens" ConfigName="Debug"/>
+      <Project Name="sortstudentgraduted" ConfigName="Debug"/>
+      <Project Name="testfives" ConfigName="Debug"/>
+      <Project Name="convertdecimaltobinary" ConfigName="Debug"/>
+      <Project Name="ComputeTheWeeklyHoursForEachEmployee" ConfigName="Debug"/>
+      <Project Name="addtwomatric" ConfigName="Debug"/>
+      <Project Name="shufllerows" ConfigName="Debug"/>
+      <Project Name="multiplytwomatrices" ConfigName="Debug"/>
+      <Project Name="distantce" ConfigName="Debug"/>
+      <Project Name="largestelement" ConfigName="Debug"/>
+      <Project Name="matrixInverseThreeToThree" ConfigName="Debug"/>
+      <Project Name="TicTac" ConfigName="Debug"/>
+      <Project Name="connectfour" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="AnalyzeArray" ConfigName="Release"/>
+      <Project Name="lottonumbers" ConfigName="Release"/>
+      <Project Name="deckofcards" ConfigName="Release"/>
+      <Project Name="passArrayDemo" ConfigName="Release"/>
+      <Project Name="effectofarrayDemo" ConfigName="Release"/>
+      <Project Name="constarraydemo" ConfigName="Release"/>
+      <Project Name="reverceyArrey" ConfigName="Release"/>
+      <Project Name="checkpoint" ConfigName="Release"/>
+      <Project Name="checkpointtwo" ConfigName="Release"/>
+      <Project Name="countletterarray" ConfigName="Release"/>
+      <Project Name="binearysearch" ConfigName="Release"/>
+      <Project Name="sortingarray" ConfigName="Release"/>
+      <Project Name="c_string" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="assigngrades" ConfigName="Release"/>
+      <Project Name="revercenumber" ConfigName="Release"/>
+      <Project Name="courntoccuren" ConfigName="Release"/>
+      <Project Name="printdistinct" ConfigName="Release"/>
+      <Project Name="smallest_Number" ConfigName="Release"/>
+      <Project Name="computedeviation" ConfigName="Release"/>
+      <Project Name="findsalecamount" ConfigName="Release"/>
+      <Project Name="sortnumber" ConfigName="Release"/>
+      <Project Name="liockerpuzzle" ConfigName="Release"/>
+      <Project Name="Reviseselectionsort" ConfigName="Release"/>
+      <Project Name="galtonballs" ConfigName="Release"/>
+      <Project Name="theeightqueen" ConfigName="Release"/>
+      <Project Name="eightqeen" ConfigName="Release"/>
+      <Project Name="curscoupon" ConfigName="Release"/>
+      <Project Name="combinations" ConfigName="Release"/>
+      <Project Name="identicalarray" ConfigName="Release"/>
+      <Project Name="Patternrecognition" ConfigName="Release"/>
+      <Project Name="drawingsquare" ConfigName="Release"/>
+      <Project Name="processingtwodimansial" ConfigName="Release"/>
+      <Project Name="checkpoint_one" ConfigName="Release"/>
+      <Project Name="gradeexam" ConfigName="Release"/>
+      <Project Name="FindNearestPoints" ConfigName="Release"/>
+      <Project Name="weather" ConfigName="Release"/>
+      <Project Name="threeMultidimensionalarray" ConfigName="Release"/>
+      <Project Name="sumelementsandculomens" ConfigName="Release"/>
+      <Project Name="sortstudentgraduted" ConfigName="Release"/>
+      <Project Name="testfives" ConfigName="Release"/>
+      <Project Name="convertdecimaltobinary" ConfigName="Release"/>
+      <Project Name="ComputeTheWeeklyHoursForEachEmployee" ConfigName="Release"/>
+      <Project Name="addtwomatric" ConfigName="Release"/>
+      <Project Name="shufllerows" ConfigName="Release"/>
+      <Project Name="multiplytwomatrices" ConfigName="Release"/>
+      <Project Name="distantce" ConfigName="Release"/>
+      <Project Name="largestelement" ConfigName="Release"/>
+      <Project Name="matrixInverseThreeToThree" ConfigName="Release"/>
+      <Project Name="TicTac" ConfigName="Release"/>
+      <Project Name="connectfour" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
